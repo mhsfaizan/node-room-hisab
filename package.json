@@ -1,0 +1,14 @@
+{
+  "name": "room-hisab",
+  "version": "1.0.0",
+  "description": "Calculate the hisab of room",
+  "main": "app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "faizan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
