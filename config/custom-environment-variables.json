@@ -1,0 +1,5 @@
+{
+    "jwtPrivateKey": "RH_jwtprivatekey",
+    "dbUser": "RH_dbuser",
+    "dbPassword": "RH_dbpassword"
+}
